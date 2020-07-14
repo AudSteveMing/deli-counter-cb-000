@@ -34,6 +34,6 @@
 
 
 def take_a_number(array, name)
-  index = array.length + 2
-  puts "Welcome #{name}, you are number #{index} in line"
+  index = array.length + 1
+  puts "Welcome, #{name}. You are number #{index} in line"
 end
